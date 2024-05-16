@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaiolights -  Kaloyan Birusov
+- 👋 Hi, I’m @kaiolights -  Kaloyan Borisov
 - 👀 I’m interested in coding and building constructions
 - 🌱 I’m currently learning C# code language
 - 💞️ I’m looking to collaborate on C#
